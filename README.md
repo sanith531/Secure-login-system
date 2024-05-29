@@ -78,7 +78,7 @@ A secure login system with Single Sign-On (SSO) capabilities, developed using HT
 
 ### 1. Login Page
 
-![Login Page](screenshots/dashboard.png)
+![Login Page](screenshots/login.png)
 
 ### 2. Register Page
 
