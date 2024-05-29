@@ -1,0 +1,65 @@
+2024-02-07 13:48:36 - test
+2024-02-07 13:48:38 - test
+2024-02-07 13:48:53 - test
+2024-02-09 18:12:15 - unlock time saved
+2024-02-09 18:13:33 - unlock time saved
+2024-02-11 19:04:21 - Password should be at least 8 characters long.
+2024-02-11 19:04:59 - Password should contain at least one uppercase letter.
+2024-02-11 19:05:22 - Password should contain at least one lowercase letter.
+2024-02-11 19:05:39 - Password should contain at least one special character.
+2024-02-11 19:08:32 - Password should contain at least one special character.
+2024-02-11 19:08:57 - OK
+2024-02-11 19:44:41 - invalid json token
+2024-02-12 15:24:13 - No connection could be made because the target machine actively refused it
+2024-02-12 19:59:39 - No connection could be made because the target machine actively refused it
+2024-02-12 20:06:05 - No connection could be made because the target machine actively refused it
+2024-02-13 02:12:24 - Warning: Undefined variable $ss in C:\xampp\htdocs\Two Factor Authentication using PHP\config.php on line 90
+
+2024-02-13 12:26:29 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-13 15:53:06 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 00:59:52 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 02:56:46 - No connection could be made because the target machine actively refused it
+2024-02-14 12:28:25 - No connection could be made because the target machine actively refused it
+2024-02-14 12:28:56 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 79
+
+2024-02-14 12:29:06 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 79
+
+2024-02-14 12:30:19 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 79
+
+2024-02-14 12:32:20 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 12:35:54 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 12:38:37 - Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Two Factor Authentication using PHP\registration.php on line 49
+
+2024-02-14 12:38:58 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 12:41:05 - Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Two Factor Authentication using PHP\registration.php on line 49
+
+2024-02-14 12:41:24 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 12:43:42 - Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Two Factor Authentication using PHP\dashboard.php on line 80
+
+2024-02-14 12:43:42 - Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Two Factor Authentication using PHP\dashboard.php on line 81
+
+2024-02-14 12:43:42 - Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Two Factor Authentication using PHP\dashboard.php on line 82
+
+2024-02-14 12:47:59 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 14:22:36 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 14:23:05 - Warning: fgets(): SSL: An existing connection was forcibly closed by the remote host in C:\xampp\htdocs\Two Factor Authentication using PHP\PHPMailer\src\SMTP.php on line 1264
+
+2024-02-14 14:23:05 - SMTP Error: The following recipients failed: hardbreaker91960@gmail.com: 
+2024-02-14 14:23:11 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-02-14 14:26:56 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-03-05 11:51:15 - No connection could be made because the target machine actively refused it
+2024-05-29 22:15:44 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
+2024-05-29 22:38:11 - Warning: Undefined variable $name in C:\xampp\htdocs\Two Factor Authentication using PHP\index.php on line 78
+
