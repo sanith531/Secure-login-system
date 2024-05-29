@@ -20,7 +20,7 @@ A secure login system with Single Sign-On (SSO) capabilities, developed using HT
 1. **Clone the Repository**
 
    ```bash
-   git clone []
+   git clone [https://github.com/sanith531/Secure-login-system.git]
    cd SecureLoginSSO
    ```
 
