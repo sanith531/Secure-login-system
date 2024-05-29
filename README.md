@@ -78,19 +78,19 @@ A secure login system with Single Sign-On (SSO) capabilities, developed using HT
 
 ### 1. Login Page
 
-![Login Page](screenshots\login.png)
+![Login Page](screenshots/dashboard.png)
 
 ### 2. Register Page
 
-![Register Page](screenshots\register.png)
+![Register Page](screenshots/register.png)
 
 ### 3. Two Factor Authentication
 
-![Two Factor Authentication](screenshots\two-factor-authentication.png)
+![Two Factor Authentication](screenshots/two-factor-authentication.png)
 
 ### 4. Dashboard
 
-![Login Page](screenshots\dashboard.png)
+![Login Page](screenshots/dashboard.png)
 
 ## License
 
